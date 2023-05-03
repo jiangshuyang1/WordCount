@@ -1,1 +1,1 @@
-char     int aaa,bd,cccccc
+char     int aaa,bd,cccccccc
